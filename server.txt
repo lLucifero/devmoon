@@ -1,0 +1,1 @@
+vless://652da35d-b59d-4ab0-af59-cb90066dcc10@vless-2mi.pages.dev:443?security=tls&sni=vless-2mi.pages.dev&type=ws&host=vless-2mi.pages.dev&encryption=none#dev.io
