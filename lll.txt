@@ -47,5 +47,5 @@ vless://df434087-13a8-46c8-b03c-663b518c7451@icook.hk:443?path=%2Ffastpurnet.pag
 
 
 
-
+vless://c95a5a3a-5a4c-4ee5-b11a-96f72cf80661@japantimes.co.jp:443?path=%2F4cbba020.fastpurnet3.pages.dev%2F%3Fed%3D2560&security=tls&encryption=none&host=4cbba020.fastpurnet3.pages.dev&fp=randomized&type=ws&sni=4cbba020.fastpurnet3.pages.dev#example.com+purnet
 vless://652da35d-b59d-4ab0-af59-cb90066dcc10@vless-2mi.pages.dev:443?path=%2F&security=tls&encryption=none&host=vless-2mi.pages.dev&type=ws&sni=vless-2mi.pages.dev#devmoon
