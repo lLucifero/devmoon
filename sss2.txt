@@ -4,3 +4,5 @@ https://raw.githubusercontent.com/barry-far/V2ray-Configs/refs/heads/main/Sub4.t
 https://raw.githubusercontent.com/barry-far/V2ray-Configs/refs/heads/main/Sub5.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Configs/refs/heads/main/Sub6.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Configs/refs/heads/main/Sub7.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Configs/refs/heads/main/Sub8.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Configs/refs/heads/main/Sub9.txt
