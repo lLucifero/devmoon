@@ -2,7 +2,7 @@ https://raw.githubusercontent.com/lLucifero/devmoon/refs/heads/dev-io/main2.txt
 https://raw.githubusercontent.com/davudsedft/vless/refs/heads/main/shadowsocks.txt
 https://raw.githubusercontent.com/davudsedft/vless/refs/heads/main/mix.txt
 https://raw.githubusercontent.com/davudsedft/vless/refs/heads/main/trojan.txt
-https://raw.githubusercontent.com/davudsedft/purvpn/refs/heads/main/links/purkow.txt
+https://raw.githubusercontent.com/lLucifero/devmoon/refs/heads/dev-io/VIPserver.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Configs/refs/heads/main/Sub3.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Configs/refs/heads/main/Sub4.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Configs/refs/heads/main/Sub5.txt
