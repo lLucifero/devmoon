@@ -37,7 +37,6 @@ vless://88e79468-dc96-93e0-199b-945538d116c0@91.107.152.47:1104?security=reality
 vless://d28ba1cd-eabf-4ea6-9655-e5c8fb11fcdf@202.124.251.40:13114?security=reality&flow=xtls-rprx-vision&sni=swdist.apple.com&type=tcp&fp=chrome&pbk=BQH9S8Hg5Z8AqqXb9pNX1Yl-fcQPlKRy1ZWClfvasBw&sid=6ba85179e30d4fc2#🔒 VL-TCP-RLT 🇺🇸 US-202.124.251.40:13114
 vless://90ac584d-761e-4120-80fe-c83827e2d903@199.245.100.163:55581?security=reality&flow=xtls-rprx-vision&sni=tesla.com&type=tcp&fp=chrome&pbk=y0q-sCEuL7_NSQ7XrxQ0McBOaOcCYkM3Si2Z8MRDKy0&sid=d57e86f58bde2f5a#🔒 VL-TCP-RLT 🇺🇸 US-199.245.100.163:55581
 vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@103.148.73.170:443?security=reality&sni=github.githubassets.com&type=tcp&fp=chrome&pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&sid=6ba85179e30d4fc2#🔒 VL-TCP-RLT 🇭🇰 HK-103.148.73.170:443
-
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@151.101.0.155:80/?type=ws&encryption=none&host=Join--E-L-i-V-2-R-A-Y.net&path=%2FJoin-ELiV2RAY%3Fed%3D2560#🔗 Vauth - 33
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#🔗 Vauth - 74
 vless://a3f9d9b6-3ae4-4c47-9dbf-33b0a5c7f1a5@195.85.59.161:2082/?type=ws&encryption=none&host=0210.uous1wog.workers.dev&path=%2F%3Fed%3D2560#🔗 Vauth - 115
